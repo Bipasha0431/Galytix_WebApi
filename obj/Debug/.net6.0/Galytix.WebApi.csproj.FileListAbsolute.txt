@@ -1,0 +1,9 @@
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.csproj.AssemblyReference.cache
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.AssemblyInfoInputs.cache
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.AssemblyInfo.cs
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.RazorAssemblyInfo.cache
+C:\Users\bipas\OneDrive\Desktop\BE exercise\Galytix.WebApi (4)\obj\Debug\.net6.0\Galytix.WebApi.RazorAssemblyInfo.cs

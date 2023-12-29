@@ -1,0 +1,24 @@
+Here's a brief explanation of the mentioned project.
+
+1. CountryGwpController.cs:
+
+- This class defines a controller with a route "api/gwp" and contains an HTTP POST endpoint "avg" to calculate the average GWP.
+- The endpoint reads the JSON payload from the request body, deserializes it into a GwpReq object.
+- It checks for the validity of the request and returns a BadRequest response if the payload     is invalid.
+- The controller then constructs the file path for the CSV data file, reads the data using the CsvR.ReadCsvFile method, and calculates the   average GWP for each specified LOB.
+
+2.CsvR.cs:
+
+- This static class provides a method (ReadCsvFile) to read data from a CSV file using the CsvHelper library.
+- It uses a CsvReader to parse the CSV file and return a list of Gwpdata objects.
+
+3.Gwpdata.cs:
+
+- Represents the model for GWP data with properties such as CountryCode, LineOfBusiness, and Gwp.
+
+4.GwpReq.cs (Helper and Models):
+
+- Defines the model for the JSON payload received by the API endpoint. It includes properties for Country and a list of Lob (Line of Business)
+
+
+The main logic of the application is in the GetAverageGwp method of the CountryGwpController class. It involves reading the request, loading CSV data, filtering data based on the provided criteria, and calculating the average GWP for each specified LOB. 
